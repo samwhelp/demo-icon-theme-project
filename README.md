@@ -20,11 +20,11 @@
 
 | demo-icon-theme-category-size |
 | ----------------------------- |
-| [DemoCS](demo/demo-icon-theme-category-size/icons/DemoCS) |
+| [DemoCS](https://github.com/samwhelp/demo-icon-theme-project/tree/main/demo/demo-icon-theme-category-size/icons/DemoCS) |
 
 | demo-icon-theme-size-category |
 | ----------------------------- |
-| [DemoSC](demo/demo-icon-theme-size-category/icons/DemoSC) |
+| [DemoSC](https://github.com/samwhelp/demo-icon-theme-project/tree/main/demo/demo-icon-theme-size-category/icons/DemoSC) |
 
 
 
