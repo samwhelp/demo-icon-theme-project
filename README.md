@@ -24,7 +24,7 @@
 
 | demo-icon-theme-size-category |
 | ----------------------------- |
-| [DemoSC](demo/demo-icon-theme-category-size/icons/DemoSC) |
+| [DemoSC](demo/demo-icon-theme-size-category/icons/DemoSC) |
 
 
 
